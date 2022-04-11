@@ -1,12 +1,16 @@
+
 /*********************************************************************************
-* WEB422 – Assignment 6
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. 
-* No part of this assignment has been copied manually or electronically from any other source
-* (including web sites) or distributed to other students.
-* 
-* Name: Triet Pham Minh Student ID: 157930199  Date: 1/20/2022
+* WEB422 – Assignment 06
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
+* assignment has been copied manually or electronically from any other source (including web sites) or
+* distributed to other students.
 *
-********************************************************************************/
+* Name: Triet Pham Minh Student ID: 157930199  Date: 4/09/2022
+*
+* Angular App (Deployed) Link: https://assignment6-kappa.vercel.app/login
+*
+* User API (Heroku) Link: https://powerful-reef-57745.herokuapp.com
+********************************************************************************/ 
 import { Component, OnInit } from '@angular/core';
 import { Event, NavigationStart, Router } from '@angular/router';
 import { AuthService } from './auth.service';
